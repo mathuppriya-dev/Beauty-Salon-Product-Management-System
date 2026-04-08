@@ -64,9 +64,16 @@ Data Storage (JSON File)
 <img src="./screenshots/dashboard.png" width="20%">
 
 ### 📋 Product List
+<p align="center">
+  <img src="./screenshots/product-list.png" height="320px" style="margin-right:0 50px;" />
+  <img src="./screenshots/product-list1.png" height="320px" style="margin-left:0 50px;" />
+</p>
 
-<img src="./screenshots/product-list.png" width="20%">
-<img src="./screenshots/product-list1.png" width="20%">
+<p align="center">
+  <b>Product List</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Success Message</b>
+</p>
 
 ### ➕ Add Product
 
@@ -83,8 +90,16 @@ Data Storage (JSON File)
 
 ### ✏️ Edit Product
 
-<img src="./screenshots/edit-product.png" width="20%">
-<img src="./screenshots/edit-product1.png" width="20%">
+<p align="center">
+  <img src="./screenshots/edit-product.png" height="320px" style="margin-right:0 50px;" />
+  <img src="./screenshots/edit-product1.png" height="320px" style="margin-left:0 50px;" />
+</p>
+
+<p align="center">
+  <b>Edit Product Form</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Edit Product Form</b>
+</p>
 
 ---
 
