@@ -61,22 +61,22 @@ Data Storage (JSON File)
 
 ### 📊 Dashboard
 
-<img src="./screenshots/dashboard.png" width="100%">
+<img src="./screenshots/dashboard.png" width="20%">
 
 ### 📋 Product List
 
-<img src="./screenshots/product-list.png" width="100%">
-<img src="./screenshots/product-list1.png" width="100%">
+<img src="./screenshots/product-list.png" width="20%">
+<img src="./screenshots/product-list1.png" width="20%">
 
 ### ➕ Add Product
 
-<img src="./screenshots/add-product.png" width="100%">
-<img src="./screenshots/add-product1.png" width="100%">
+<img src="./screenshots/add-product.png" width="20%">
+<img src="./screenshots/add-product1.png" width="20%">
 
 ### ✏️ Edit Product
 
-<img src="./screenshots/edit-product.png" width="100%">
-<img src="./screenshots/edit-product1.png" width="100%">
+<img src="./screenshots/edit-product.png" width="20%">
+<img src="./screenshots/edit-product1.png" width="20%">
 
 ---
 
