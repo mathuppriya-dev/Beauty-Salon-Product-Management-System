@@ -60,8 +60,9 @@ Data Storage (JSON File)
 ## 📸 Screenshots
 
 ### 📊 Dashboard
-
-<img src="./screenshots/dashboard.png" width="20%">
+<p align="center">
+   <img src="./screenshots/dashboard.png" width="20%">
+</p>
 
 ### 📋 Product List
 <p align="center">
@@ -72,7 +73,7 @@ Data Storage (JSON File)
 <p align="center">
   <b>Product List</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Success Message</b>
+  <b>Product List</b>
 </p>
 
 ### ➕ Add Product
