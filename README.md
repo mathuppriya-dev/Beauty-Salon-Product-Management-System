@@ -71,8 +71,14 @@ Data Storage (JSON File)
 ### ➕ Add Product
 
 <p align="center">
-  <img src="./screenshots/add-product.png" height="300px" />
-  <img src="./screenshots/add-product1.png" height="300px" />
+  <img src="./screenshots/add-product.png" height="320px" style="margin-right:20px;" />
+  <img src="./screenshots/add-product1.png" height="320px" />
+</p>
+
+<p align="center">
+  <b>Add Product Form</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Success Message</b>
 </p>
 
 ### ✏️ Edit Product
