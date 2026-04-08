@@ -70,8 +70,10 @@ Data Storage (JSON File)
 
 ### ➕ Add Product
 
-<img src="./screenshots/add-product.png" width="20%">
-<img src="./screenshots/add-product1.png" width="20%">
+<p align="center">
+  <img src="./screenshots/add-product.png" width="45%" />
+  <img src="./screenshots/add-product1.png" width="45%" />
+</p>
 
 ### ✏️ Edit Product
 
